@@ -18,42 +18,16 @@
             font-size: 3em;
         }
 
-        .timer-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            font-size: 1.5em;
-            background-color: #000000;
-        }
-
-        .timer {
-            display: flex;
-            align-items: center;
-            margin: 0 1em;
-            color: #fff;
-            border-radius: 0.5em;
-        }
-
-        .timer span {
-            margin-right: 0.5em;
+        .container iframe {
+            border: 0;
         }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <div class="timer-container">
-            <img src="./assets/buildspace-logo.png" alt="Your Image" width="100">
-            <div class="timer" id="countdown">
-                <span id="days"></span>
-                <span id="hours"></span>
-                <span id="minutes"></span>
-                <span id="seconds"></span>
-            </div>
-        </div>
+        <iframe src="https://buildspace.so/home" width="100%" height="100%"></iframe>
     </div>
-    <script src="tab_override.js"></script>
 </body>
 
 </html>

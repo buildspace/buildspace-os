@@ -1,23 +1,14 @@
 {
   "name": "buildspace",
   "description": "The extension for buildspace Nights and Weekends",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
     "48": "assets/48.png",
     "128": "assets/128.png"
   },
-  "action": {
-    "default_popup": "tab_override.html",
-    "default_title": "buildspace"
-  },
   "chrome_url_overrides": {
     "newtab": "tab_override.html"
   },
-  "permissions": ["tabs"],
-  "content_scripts": [
-    {
-      "js": ["tab_override.js"]
-    }
-  ]
+  "permissions": ["tabs"]
 }

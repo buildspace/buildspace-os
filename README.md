@@ -5,7 +5,7 @@ This is a Chromium based browser extension that will replace your browser homepa
 For now -- you'll need to install this extension manually (stay tuned, this will be in the extension store soon)
 
 ## Installation
-Install in 30s by watching this video LINK VIDEO
+We put together 2 min video of all the steps — [click here to check it out](https://www.loom.com/share/8fa37295dc6d47fd945b348dab52fda1)
 
 If you've never done this before, don't worry it's super simple. For the instructions we are going to use Chrome, but it should work identical on any Chromium based browser
 
@@ -13,7 +13,6 @@ If you've never done this before, don't worry it's super simple. For the instruc
 ### 1. Download + extract the extension
 On this repo, click the green "Code" button and select Download ZIP. Make sure to save it in a safe spot!<br>
 ![](https://i.imgur.com/TlzzORw.png)
-# UPDATE ALEC
 
 ### 2. Turn on Developer mode
 Open your browser and head to "Extensions"<br>

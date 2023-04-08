@@ -12,7 +12,7 @@ If you've never done this before, don't worry it's super simple. For the instruc
 
 ### 1. Download + extract the extension
 On this repo, click the green "Code" button and select Download ZIP. Make sure to save it in a safe spot!<br>
-![](https://i.imgur.com/Lf65Ig3.png)
+![](https://i.imgur.com/TlzzORw.png)
 # UPDATE ALEC
 
 ### 2. Turn on Developer mode

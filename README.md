@@ -6,7 +6,7 @@
 **We put together 2 min video of all the steps — [click here to check it out](https://www.loom.com/share/8fa37295dc6d47fd945b348dab52fda1)**
 
 ### 1. Download
-In your browser make sure you are on this link (https://github.com/buildspace/buildspace-os). Click the green "Code" button and select "Download ZIP". Make sure to save it in a safe spot!<br>
+Click the green "Code" button and select "Download ZIP". Make sure to save it in a safe spot!<br>
 ![](https://i.imgur.com/TlzzORw.png)
 
 ### 2. Turn on Developer mode

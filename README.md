@@ -28,4 +28,4 @@ Now you can see this thing in action! Open a new tab and you'll notice that ther
 ![](https://i.imgur.com/UtvBBmW.png)
 
 ## Got questions?
-For any questions please DM Alec on Discord (alec#8853) or send an email to support@buildspace.so
+For any questions please DM Alec on Discord (al00c#0) or send an email to support@buildspace.so

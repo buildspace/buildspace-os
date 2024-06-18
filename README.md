@@ -13,7 +13,7 @@ click the green "Code" button and select "Download ZIP". make sure to extract th
 
 ### 2. turn on Developer mode
 in your browser head to the "Extensions" section. this can be found in the settings portion of your browser! checkout the screenshot below:<br>
-![](https://i.imgur.com/igEIfnt.png)
+![](https://user-images.githubusercontent.com/64839201/258601081-6c1dd76d-bd4a-459c-a859-20979ec80893.png)
 
 once you get there you'll see "Developer mode" in the top right. make sure to toggle that **on** and then you'll see new options (we're gonna be using "Load unpacked")<br>
 ![](https://i.imgur.com/l8GLD4b.png)

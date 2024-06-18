@@ -7,8 +7,11 @@
     "48": "assets/48.png",
     "128": "assets/128.png"
   },
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
   "chrome_url_overrides": {
     "newtab": "tab_override.html"
-  },
-  "permissions": ["tabs"]
+  }
 }
